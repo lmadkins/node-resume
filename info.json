@@ -3,7 +3,7 @@
   "website": "https://louiseadkins.netlify.app/",
   "linkedin": "linkedin.com/in/louiseadkins/", 
   "email": "louise.m.adkins@gmail.com",
-  "github": "lmadkins",
+  "github": "https://github.com/lmadkins",
   "proficientTechnologies": [
     "Javascript",
     "HTML",
@@ -12,7 +12,7 @@
   ],
   "otherSkills": [
     "houseplant care", 
-    "cooking",
+    "vegetarian cooking",
     "photography"
   ]
 }

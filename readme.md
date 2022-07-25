@@ -1,1 +1,1 @@
-A small resume to practice using node fs
+Resume to practice using node fs

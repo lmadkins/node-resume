@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
 }
-"bin": {
-  "your-command-here": "./index.js"
-},
